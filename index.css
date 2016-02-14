@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'yehuda light';
-  src: url('fonts/yehudaclm-light-webfont.ttf');
+  src: url('Fonts/yehudaclm-light-webfont.ttf');
 }
 
 @font-face {
   font-family: 'yehuda bold';
-  src: url('fonts/yehudaclm-bold-webfont.ttf');
+  src: url('Fonts/yehudaclm-bold-webfont.ttf');
 }
 
 .section {
