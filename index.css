@@ -1,0 +1,171 @@
+@font-face {
+  font-family: 'yehuda light';
+  src: url('./fonts/yehudaclm-light-webfont.ttf');
+}
+
+@font-face {
+  font-family: 'yehuda bold';
+  src: url('./fonts/yehudaclm-bold-webfont.ttf');
+}
+
+.section {
+  text-align: center;
+  font-size: 70px;
+  font-family: "yehuda light";
+  padding: 20px;
+}
+
+.main-section {
+  background-size: 160%;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  color: white;
+  font-size: 100px;
+  background-color: #E87F7F;
+  text-shadow: 3px 3px #000000;
+}
+
+.main-section .number {
+  border-radius: 50%;
+  border: 12px solid white;
+  width: 250px;
+  line-height: 250px;
+  font-size: 150px;
+  margin: auto;
+  margin-bottom: 100px;
+  box-shadow: 3px 3px black;
+}
+
+.main-section .content,
+.main-section .title {
+  font-size: 90px;
+  font-family: "yehuda bold";
+}
+
+#section-1 {
+  background-image: url(./images/IMG_1245.jpg);
+}
+
+#section-1 .content {
+  margin-top: 1350px;
+}
+
+#section-3 {
+  background-image: url(./images/IMG_1063.jpg);
+}
+
+#section-5 {
+  background-image: url(./images/IMG_1195.jpg);
+}
+
+#section-3, #section-4, #section-6, #section-13 {
+  background-color: #BFDA00;
+}
+
+#section-7 {
+  background-image: url(./images/IMG_1170.jpg);
+}
+
+#section-8 {
+  background-image: url(./images/IMG_1111.jpg);
+}
+
+#section-10 {
+  background-image: url(./images/IMG_0904.jpg);
+}
+
+#section-11 {
+  background-image: url(./images/IMG_1068.jpg);
+  background-size: 250%;
+}
+
+#section-11 .content {
+  margin-top: -600px;
+}
+
+#section-8, #section-9, #section-10, #section-11, #section-12 {
+  background-color: #A9BCFF;
+}
+
+#section-5, #section-13, #section-14, #section-15, #section-17 {
+  background-color: #2C3E50;
+  color: white;
+}
+
+#section-13 {
+  background-image: url(./images/IMG_0993.jpg);
+  background-size: 200%;
+}
+
+#section-14 {
+  background-image: url(./images/IMG_0999.jpg);
+  background-size: 200%;
+}
+
+#section-15 {
+  background-image: url(./images/IMG_1211.jpg);
+}
+
+#section-16 {
+  background-image: url(./images/IMG_0939.jpg);
+  background-size: 136%;
+}
+
+#section-13 .content,
+#section-14 .content,
+#section-15 .content {
+  margin-top: 1000px;
+}
+
+#section-18 {
+  background-image: url(./images/IMG_0782.jpg);
+}
+
+#section-18 .content {
+  margin-top: 1200px;
+}
+
+#section-20 {
+  background-image: url(./images/IMG_0821.jpg);
+}
+
+#section-20 .content {
+  margin-top: 700px;
+}
+
+#section-21 {
+  background-image: url(./images/IMG_0822.jpg);
+}
+
+#section-22 {
+  background-image: url(./images/IMG_0999.jpg);
+}
+
+#section-23 {
+  background-image: url(./images/IMG_0918.jpg);
+}
+
+#section-24 {
+  background-image: url(./images/IMG_0882.jpg);
+}
+
+#section-25 {
+  background-image: url(./images/IMG_0793.jpg);
+}
+
+#section-26 {
+  background-image: url(./images/IMG_0782.jpg);
+}
+
+#section-26 .content {
+  margin-top: 700px;
+}
+
+#section-27 {
+  background-image: url(./images/IMG_1005.jpg);
+  background-size: 102%;
+}
+
+#section-27 .content {
+  margin-top: 1250px;
+}
