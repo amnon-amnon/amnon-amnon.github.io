@@ -173,3 +173,12 @@
 #section-27 .content {
   margin-top: 1250px;
 }
+
+#section-end .icon {
+  width: 300px;
+  height: 300px;
+  background-image: url(./images/icon.png);
+  background-size: 100%;
+  margin: auto;
+  margin-top: 100px;
+}
